@@ -34,7 +34,7 @@
           <properties>
             <property>
               <name>listener</name>
-              <value>io.probedock.client.junit.ProbeListener</value>
+              <value>ch.heigvd.schoolpulse.TestResultListener,io.probedock.client.junit.ProbeListener</value>
             </property>
           </properties>
         </configuration>

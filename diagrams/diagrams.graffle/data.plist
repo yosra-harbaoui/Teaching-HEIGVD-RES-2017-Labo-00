@@ -4,15 +4,15 @@
 <dict>
 	<key>ApplicationVersion</key>
 	<array>
-		<string>com.omnigroup.OmniGraffle6.MacAppStore</string>
-		<string>159.9</string>
+		<string>com.omnigroup.OmniGrafflePro</string>
+		<string>139.16.0.171715</string>
 	</array>
 	<key>CreationDate</key>
 	<string>2015-02-09 07:06:19 +0000</string>
 	<key>Creator</key>
 	<string>Olivier Liechti</string>
 	<key>GraphDocumentVersion</key>
-	<integer>12</integer>
+	<integer>8</integer>
 	<key>GuidesLocked</key>
 	<string>NO</string>
 	<key>GuidesVisible</key>
@@ -42,9 +42,9 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2015-02-16 09:11:02 +0000</string>
+	<string>2016-02-23 09:27:16 +0000</string>
 	<key>Modifier</key>
-	<string>Unknow</string>
+	<string>Olivier Liechti</string>
 	<key>NotesVisible</key>
 	<string>NO</string>
 	<key>OriginVisible</key>
@@ -108,6 +108,11 @@
 				<integer>2</integer>
 				<key>Style</key>
 				<dict>
+					<key>shadow</key>
+					<dict>
+						<key>Draws</key>
+						<string>NO</string>
+					</dict>
 					<key>stroke</key>
 					<dict>
 						<key>Draws</key>
@@ -124,7 +129,7 @@
 			<key>ColumnSpacing</key>
 			<real>36</real>
 			<key>DisplayScale</key>
-			<string>1 in = 1 in</string>
+			<string>1 0/72 in = 1.0000 in</string>
 			<key>GraphicsList</key>
 			<array>
 				<dict>
@@ -141,6 +146,8 @@
 					</dict>
 					<key>ID</key>
 					<integer>33</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -166,8 +173,8 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red0\green128\blue0;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
@@ -194,6 +201,8 @@
 					</dict>
 					<key>ID</key>
 					<integer>32</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -219,8 +228,8 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red0\green128\blue0;\red128\green0\blue0;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
@@ -256,6 +265,8 @@ This is what you use to
 					</dict>
 					<key>ID</key>
 					<integer>31</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -281,8 +292,8 @@ This is what you use to
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Consolas-Bold;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Consolas-Bold;}
 {\colortbl;\red255\green255\blue255;\red0\green128\blue0;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
@@ -310,11 +321,6 @@ This is what you use to
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>stroke</key>
 						<dict>
 							<key>HeadArrow</key>
@@ -344,6 +350,8 @@ This is what you use to
 					</dict>
 					<key>ID</key>
 					<integer>29</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -369,8 +377,8 @@ This is what you use to
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Consolas;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Consolas;}
 {\colortbl;\red255\green255\blue255;\red128\green0\blue0;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
@@ -398,11 +406,6 @@ This is what you use to
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>stroke</key>
 						<dict>
 							<key>HeadArrow</key>
@@ -432,6 +435,8 @@ This is what you use to
 					</dict>
 					<key>ID</key>
 					<integer>27</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -457,8 +462,8 @@ This is what you use to
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Consolas;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Consolas;}
 {\colortbl;\red255\green255\blue255;\red128\green0\blue0;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
@@ -481,6 +486,8 @@ This is what you use to
 					<string>ShapedGraphic</string>
 					<key>ID</key>
 					<integer>25</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -504,8 +511,8 @@ This is what you use to
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading200\pardirnatural\qc
 
@@ -528,11 +535,6 @@ This is what you use to
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>stroke</key>
 						<dict>
 							<key>HeadArrow</key>
@@ -558,11 +560,6 @@ This is what you use to
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>stroke</key>
 						<dict>
 							<key>HeadArrow</key>
@@ -583,6 +580,8 @@ This is what you use to
 					<string>ShapedGraphic</string>
 					<key>ID</key>
 					<integer>21</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -606,8 +605,8 @@ This is what you use to
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading200\pardirnatural\qc
 
@@ -630,11 +629,6 @@ This is what you use to
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>stroke</key>
 						<dict>
 							<key>HeadArrow</key>
@@ -666,6 +660,8 @@ This is what you use to
 					</dict>
 					<key>ID</key>
 					<integer>19</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -691,8 +687,8 @@ This is what you use to
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fnil\fcharset0 MarkerFelt-Thin;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 MarkerFelt-Thin;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
@@ -719,6 +715,8 @@ This is what you use to
 					</dict>
 					<key>ID</key>
 					<integer>18</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -744,8 +742,8 @@ This is what you use to
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fnil\fcharset0 MarkerFelt-Thin;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 MarkerFelt-Thin;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
@@ -766,11 +764,6 @@ This is what you use to
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>stroke</key>
 						<dict>
 							<key>HeadArrow</key>
@@ -802,6 +795,8 @@ This is what you use to
 					</dict>
 					<key>ID</key>
 					<integer>15</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -827,8 +822,8 @@ This is what you use to
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fnil\fcharset0 MarkerFelt-Thin;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 MarkerFelt-Thin;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
@@ -841,7 +836,7 @@ Maven figures out that it is necessary first to build the code project, then the
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{621.07152557373036, 313.96108984178113}, {205, 70}}</string>
+					<string>{{621.07152557373036, 313.96108984178113}, {205, 71}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -857,6 +852,8 @@ Maven figures out that it is necessary first to build the code project, then the
 					</dict>
 					<key>ID</key>
 					<integer>14</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -882,8 +879,8 @@ Maven figures out that it is necessary first to build the code project, then the
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fnil\fcharset0 Consolas;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 Consolas;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
@@ -900,7 +897,7 @@ Maven figures out that it is necessary first to build the code project, then the
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{340.99999999999989, 313.96108984178113}, {205, 56}}</string>
+					<string>{{340.99999999999989, 313.96108984178113}, {205, 57}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -916,6 +913,8 @@ Maven figures out that it is necessary first to build the code project, then the
 					</dict>
 					<key>ID</key>
 					<integer>12</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -941,8 +940,8 @@ Maven figures out that it is necessary first to build the code project, then the
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fnil\fcharset0 Consolas;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 Consolas;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
@@ -958,7 +957,7 @@ Maven figures out that it is necessary first to build the code project, then the
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{340.99999956152891, 176.53165435791016}, {106.45114898681641, 14}}</string>
+					<string>{{340.99999956152891, 176.53165435791016}, {106.45114898681641, 15}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -974,6 +973,8 @@ Maven figures out that it is necessary first to build the code project, then the
 					</dict>
 					<key>ID</key>
 					<integer>9</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -999,8 +1000,8 @@ Maven figures out that it is necessary first to build the code project, then the
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fnil\fcharset0 Consolas;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 Consolas;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
@@ -1023,6 +1024,8 @@ Maven figures out that it is necessary first to build the code project, then the
 					</dict>
 					<key>ID</key>
 					<integer>6</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -1060,8 +1063,8 @@ Maven figures out that it is necessary first to build the code project, then the
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading200\pardirnatural\qc
 
@@ -1086,6 +1089,8 @@ Maven figures out that it is necessary first to build the code project, then the
 					</dict>
 					<key>ID</key>
 					<integer>5</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -1123,8 +1128,8 @@ Maven figures out that it is necessary first to build the code project, then the
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading200\pardirnatural\qc
 
@@ -1149,6 +1154,8 @@ Maven figures out that it is necessary first to build the code project, then the
 					</dict>
 					<key>ID</key>
 					<integer>3</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -1186,8 +1193,8 @@ Maven figures out that it is necessary first to build the code project, then the
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading200\pardirnatural\qc
 
@@ -1265,6 +1272,11 @@ Maven figures out that it is necessary first to build the code project, then the
 				<integer>2</integer>
 				<key>Style</key>
 				<dict>
+					<key>shadow</key>
+					<dict>
+						<key>Draws</key>
+						<string>NO</string>
+					</dict>
 					<key>stroke</key>
 					<dict>
 						<key>Draws</key>
@@ -1281,7 +1293,7 @@ Maven figures out that it is necessary first to build the code project, then the
 			<key>ColumnSpacing</key>
 			<real>36</real>
 			<key>DisplayScale</key>
-			<string>1 in = 1.00000 in</string>
+			<string>1 0/72 in = 1.0000 in</string>
 			<key>GraphicsList</key>
 			<array>
 				<dict>
@@ -1295,6 +1307,8 @@ Maven figures out that it is necessary first to build the code project, then the
 					<string>Resize</string>
 					<key>ID</key>
 					<integer>74</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -1318,8 +1332,8 @@ Maven figures out that it is necessary first to build the code project, then the
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
@@ -1343,6 +1357,8 @@ Maven figures out that it is necessary first to build the code project, then the
 					<string>Resize</string>
 					<key>ID</key>
 					<integer>73</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -1366,8 +1382,8 @@ Maven figures out that it is necessary first to build the code project, then the
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
@@ -1387,6 +1403,8 @@ Maven figures out that it is necessary first to build the code project, then the
 					<string>ShapedGraphic</string>
 					<key>ID</key>
 					<integer>72</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -1412,8 +1430,8 @@ Maven figures out that it is necessary first to build the code project, then the
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
@@ -1468,8 +1486,8 @@ Maven figures out that it is necessary first to build the code project, then the
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red38\green38\blue55;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
@@ -1490,11 +1508,6 @@ Maven figures out that it is necessary first to build the code project, then the
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>stroke</key>
 						<dict>
 							<key>HeadArrow</key>
@@ -1552,8 +1565,8 @@ Maven figures out that it is necessary first to build the code project, then the
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red38\green38\blue55;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
@@ -1569,6 +1582,8 @@ Maven figures out that it is necessary first to build the code project, then the
 					<string>ShapedGraphic</string>
 					<key>ID</key>
 					<integer>68</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -1594,8 +1609,8 @@ Maven figures out that it is necessary first to build the code project, then the
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
@@ -1650,8 +1665,8 @@ Maven figures out that it is necessary first to build the code project, then the
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red38\green38\blue55;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
@@ -1667,6 +1682,8 @@ Maven figures out that it is necessary first to build the code project, then the
 					<string>ShapedGraphic</string>
 					<key>ID</key>
 					<integer>66</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -1692,8 +1709,8 @@ Maven figures out that it is necessary first to build the code project, then the
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
@@ -1716,11 +1733,6 @@ Maven figures out that it is necessary first to build the code project, then the
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>stroke</key>
 						<dict>
 							<key>HeadArrow</key>
@@ -1741,6 +1753,8 @@ Maven figures out that it is necessary first to build the code project, then the
 					<string>ShapedGraphic</string>
 					<key>ID</key>
 					<integer>64</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -1766,8 +1780,8 @@ Maven figures out that it is necessary first to build the code project, then the
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
@@ -1792,11 +1806,6 @@ We can now do both "git fetch upstream" and "git fetch origin"}</string>
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>stroke</key>
 						<dict>
 							<key>HeadArrow</key>
@@ -1824,11 +1833,6 @@ We can now do both "git fetch upstream" and "git fetch origin"}</string>
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>stroke</key>
 						<dict>
 							<key>HeadArrow</key>
@@ -1846,7 +1850,7 @@ We can now do both "git fetch upstream" and "git fetch origin"}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{620, 556}, {581, 14}}</string>
+					<string>{{620, 556}, {581, 15}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -1862,6 +1866,8 @@ We can now do both "git fetch upstream" and "git fetch origin"}</string>
 					</dict>
 					<key>ID</key>
 					<integer>61</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -1885,13 +1891,13 @@ We can now do both "git fetch upstream" and "git fetch origin"}</string>
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fnil\fcharset0 Consolas-Bold;\f1\fnil\fcharset0 Consolas;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 Consolas-Bold;\f1\fnil\fcharset0 Consolas;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
 \f0\b\fs24 \cf0 git remote add upstream 
-\f1\b0 git@github.com:SoftEng-HEIGVD/Teaching-HEIGVD-RES-2015-Labo1.git}</string>
+\f1\b0 git@github.com:SoftEng-HEIGVD/Teaching-HEIGVD-RES-2016-Labo1.git}</string>
 						<key>VerticalPad</key>
 						<integer>0</integer>
 					</dict>
@@ -1900,7 +1906,7 @@ We can now do both "git fetch upstream" and "git fetch origin"}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{0, 0}, {394, 14}}</string>
+					<string>{{11.265472412109375, 8.351898193359375}, {394, 14}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -1909,6 +1915,8 @@ We can now do both "git fetch upstream" and "git fetch origin"}</string>
 					<string>Resize</string>
 					<key>ID</key>
 					<integer>59</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -1934,12 +1942,12 @@ We can now do both "git fetch upstream" and "git fetch origin"}</string>
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs24 \cf0 git@github.com:SoftEng-HEIGVD/Teaching-HEIGVD-RES-2015-Labo1.git}</string>
+\f0\fs24 \cf0 git@github.com:SoftEng-HEIGVD/Teaching-HEIGVD-RES-2016-Labo1.git}</string>
 						<key>VerticalPad</key>
 						<integer>0</integer>
 					</dict>
@@ -1990,8 +1998,8 @@ We can now do both "git fetch upstream" and "git fetch origin"}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red38\green38\blue55;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
@@ -2007,6 +2015,8 @@ We can now do both "git fetch upstream" and "git fetch origin"}</string>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
 					<integer>49</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -2030,8 +2040,8 @@ We can now do both "git fetch upstream" and "git fetch origin"}</string>
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading200\pardirnatural\qc
 
@@ -2056,6 +2066,8 @@ We can now do both "git fetch upstream" and "git fetch origin"}</string>
 					</dict>
 					<key>ID</key>
 					<integer>47</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -2093,14 +2105,14 @@ We can now do both "git fetch upstream" and "git fetch origin"}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
 \f0\i\b\fs24 \cf0 YourGitHubLogin
 \i0 /\
-Teaching-HEIGVD-RES-2015-Labo-00}</string>
+Teaching-HEIGVD-RES-2016-Labo-00}</string>
 						<key>VerticalPad</key>
 						<integer>20</integer>
 					</dict>
@@ -2114,6 +2126,8 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
 					<integer>46</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -2137,8 +2151,8 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading200\pardirnatural\qc
 
@@ -2161,11 +2175,6 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>stroke</key>
 						<dict>
 							<key>HeadArrow</key>
@@ -2193,6 +2202,8 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 					</dict>
 					<key>ID</key>
 					<integer>44</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -2230,14 +2241,14 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
 \f0\i\b\fs24 \cf0 YourGitHubLogin
 \i0 /\
-Teaching-HEIGVD-RES-2015-Labo-00}</string>
+Teaching-HEIGVD-RES-2016-Labo-00}</string>
 						<key>VerticalPad</key>
 						<integer>20</integer>
 					</dict>
@@ -2255,6 +2266,8 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 					<string>Resize</string>
 					<key>ID</key>
 					<integer>43</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -2278,8 +2291,8 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
@@ -2301,6 +2314,8 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 					<string>Resize</string>
 					<key>ID</key>
 					<integer>42</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -2324,8 +2339,8 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
@@ -2345,6 +2360,8 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 					<integer>41</integer>
 					<key>ImageID</key>
 					<integer>2</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -2376,11 +2393,6 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>stroke</key>
 						<dict>
 							<key>Color</key>
@@ -2412,6 +2424,8 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 					<integer>39</integer>
 					<key>ImageID</key>
 					<integer>1</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -2443,11 +2457,6 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>stroke</key>
 						<dict>
 							<key>Color</key>
@@ -2484,6 +2493,8 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 					</dict>
 					<key>ID</key>
 					<integer>37</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -2521,13 +2532,13 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red76\green76\blue76;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
 \f0\b\fs24 \cf2 SoftEng-HEIGVD/\
-Teaching-HEIGVD-RES-2015-Labo-00}</string>
+Teaching-HEIGVD-RES-2016-Labo-00}</string>
 						<key>VerticalPad</key>
 						<integer>20</integer>
 					</dict>
@@ -2545,6 +2556,8 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 					<string>Resize</string>
 					<key>ID</key>
 					<integer>36</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -2570,8 +2583,8 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red128\green0\blue0;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
@@ -2590,6 +2603,8 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 					<integer>35</integer>
 					<key>ImageID</key>
 					<integer>3</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -2621,11 +2636,6 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>stroke</key>
 						<dict>
 							<key>HeadArrow</key>
@@ -2683,8 +2693,8 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red38\green38\blue55;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
@@ -2737,8 +2747,8 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red38\green38\blue55;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
@@ -2791,8 +2801,8 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red38\green38\blue55;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
@@ -2808,6 +2818,8 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
 					<integer>30</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -2831,8 +2843,8 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading200\pardirnatural\qc
 
@@ -2855,11 +2867,6 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>stroke</key>
 						<dict>
 							<key>HeadArrow</key>
@@ -2880,6 +2887,8 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
 					<integer>28</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -2903,8 +2912,8 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading200\pardirnatural\qc
 
@@ -2927,11 +2936,6 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>stroke</key>
 						<dict>
 							<key>HeadArrow</key>
@@ -2959,6 +2963,8 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 					</dict>
 					<key>ID</key>
 					<integer>26</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -2996,14 +3002,14 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
 \f0\i\b\fs24 \cf0 YourGitHubLogin
 \i0 /\
-Teaching-HEIGVD-RES-2015-Labo-00}</string>
+Teaching-HEIGVD-RES-2016-Labo-00}</string>
 						<key>VerticalPad</key>
 						<integer>20</integer>
 					</dict>
@@ -3017,6 +3023,8 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
 					<integer>25</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -3040,8 +3048,8 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading200\pardirnatural\qc
 
@@ -3064,11 +3072,6 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>stroke</key>
 						<dict>
 							<key>HeadArrow</key>
@@ -3096,6 +3099,8 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 					</dict>
 					<key>ID</key>
 					<integer>12</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -3133,14 +3138,14 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
 \f0\i\b\fs24 \cf0 YourGitHubLogin
 \i0 /\
-Teaching-HEIGVD-RES-2015-Labo-00}</string>
+Teaching-HEIGVD-RES-2016-Labo-00}</string>
 						<key>VerticalPad</key>
 						<integer>20</integer>
 					</dict>
@@ -3158,6 +3163,8 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 					<string>Resize</string>
 					<key>ID</key>
 					<integer>11</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -3181,8 +3188,8 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
@@ -3204,6 +3211,8 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 					<string>Resize</string>
 					<key>ID</key>
 					<integer>10</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -3227,8 +3236,8 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
@@ -3248,6 +3257,8 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 					<integer>9</integer>
 					<key>ImageID</key>
 					<integer>2</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -3279,11 +3290,6 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>stroke</key>
 						<dict>
 							<key>Color</key>
@@ -3315,6 +3321,8 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 					<integer>7</integer>
 					<key>ImageID</key>
 					<integer>1</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -3346,11 +3354,6 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>stroke</key>
 						<dict>
 							<key>Color</key>
@@ -3387,6 +3390,8 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 					</dict>
 					<key>ID</key>
 					<integer>3</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -3424,13 +3429,13 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red76\green76\blue76;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
 \f0\b\fs24 \cf2 SoftEng-HEIGVD/\
-Teaching-HEIGVD-RES-2015-Labo-00}</string>
+Teaching-HEIGVD-RES-2016-Labo-00}</string>
 						<key>VerticalPad</key>
 						<integer>20</integer>
 					</dict>
@@ -3504,6 +3509,11 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 				<integer>2</integer>
 				<key>Style</key>
 				<dict>
+					<key>shadow</key>
+					<dict>
+						<key>Draws</key>
+						<string>NO</string>
+					</dict>
 					<key>stroke</key>
 					<dict>
 						<key>Draws</key>
@@ -3520,7 +3530,7 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 			<key>ColumnSpacing</key>
 			<real>36</real>
 			<key>DisplayScale</key>
-			<string>1 in = 1.00000 in</string>
+			<string>1 0/72 in = 1.0000 in</string>
 			<key>GraphicsList</key>
 			<array>
 				<dict>
@@ -3537,6 +3547,8 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 					</dict>
 					<key>ID</key>
 					<integer>36</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -3562,8 +3574,8 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
@@ -3584,11 +3596,6 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>stroke</key>
 						<dict>
 							<key>HeadArrow</key>
@@ -3614,11 +3621,6 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>stroke</key>
 						<dict>
 							<key>HeadArrow</key>
@@ -3644,11 +3646,6 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>stroke</key>
 						<dict>
 							<key>HeadArrow</key>
@@ -3676,6 +3673,8 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 					</dict>
 					<key>ID</key>
 					<integer>32</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -3701,8 +3700,8 @@ Teaching-HEIGVD-RES-2015-Labo-00}</string>
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
@@ -3725,11 +3724,6 @@ This class contains unit tests for code that you have to write. The tests are co
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>stroke</key>
 						<dict>
 							<key>HeadArrow</key>
@@ -3757,6 +3751,8 @@ This class contains unit tests for code that you have to write. The tests are co
 					</dict>
 					<key>ID</key>
 					<integer>30</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -3782,8 +3778,8 @@ This class contains unit tests for code that you have to write. The tests are co
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
@@ -3807,6 +3803,8 @@ This class contains unit tests for code that you have to write. The tests are co
 					</dict>
 					<key>ID</key>
 					<integer>29</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -3832,8 +3830,8 @@ This class contains unit tests for code that you have to write. The tests are co
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
@@ -3854,11 +3852,6 @@ This class contains unit tests for code that you have to write. The tests are co
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>stroke</key>
 						<dict>
 							<key>HeadArrow</key>
@@ -3886,6 +3879,8 @@ This class contains unit tests for code that you have to write. The tests are co
 					</dict>
 					<key>ID</key>
 					<integer>27</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -3911,8 +3906,8 @@ This class contains unit tests for code that you have to write. The tests are co
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
@@ -3933,11 +3928,6 @@ This class contains unit tests for code that you have to write. The tests are co
 					</array>
 					<key>Style</key>
 					<dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
 						<key>stroke</key>
 						<dict>
 							<key>HeadArrow</key>
@@ -3960,6 +3950,8 @@ This class contains unit tests for code that you have to write. The tests are co
 					<integer>3</integer>
 					<key>ImageID</key>
 					<integer>4</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -4046,6 +4038,11 @@ This class contains unit tests for code that you have to write. The tests are co
 				<integer>2</integer>
 				<key>Style</key>
 				<dict>
+					<key>shadow</key>
+					<dict>
+						<key>Draws</key>
+						<string>NO</string>
+					</dict>
 					<key>stroke</key>
 					<dict>
 						<key>Draws</key>
@@ -4062,7 +4059,7 @@ This class contains unit tests for code that you have to write. The tests are co
 			<key>ColumnSpacing</key>
 			<real>36</real>
 			<key>DisplayScale</key>
-			<string>1 in = 1.00000 in</string>
+			<string>1 0/72 in = 1.0000 in</string>
 			<key>GraphicsList</key>
 			<array>
 				<dict>
@@ -4074,6 +4071,8 @@ This class contains unit tests for code that you have to write. The tests are co
 					<integer>3</integer>
 					<key>ImageID</key>
 					<integer>5</integer>
+					<key>Shape</key>
+					<string>Rectangle</string>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -4155,23 +4154,25 @@ This class contains unit tests for code that you have to write. The tests are co
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
-		<integer>0</integer>
-		<key>Expanded_Canvases</key>
+		<integer>1</integer>
+		<key>ExpandedCanvases</key>
 		<array/>
 		<key>Frame</key>
-		<string>{{155, 123}, {1634, 807}}</string>
-		<key>ShowInfo</key>
-		<true/>
+		<string>{{0, 69}, {1440, 807}}</string>
+		<key>ListView</key>
+		<false/>
+		<key>OutlineWidth</key>
+		<integer>142</integer>
+		<key>RightSidebar</key>
+		<false/>
 		<key>ShowRuler</key>
 		<true/>
 		<key>Sidebar</key>
 		<true/>
 		<key>SidebarWidth</key>
 		<integer>200</integer>
-		<key>TopSlabHeight</key>
-		<real>496</real>
 		<key>VisibleRegion</key>
-		<string>{{0, 0}, {1105, 635}}</string>
+		<string>{{0, 0}, {1225, 665}}</string>
 		<key>Zoom</key>
 		<real>1</real>
 		<key>ZoomValues</key>

@@ -12,7 +12,7 @@
 ### Task 1 : Register on services and get your IDs
 
 1. If you don't have a **GitHub** account yet, get one [here](https://github.com/).
-2. If you have not registered on **CyberLearn (moodle)**, register [here](http://cyberlearn.hes-so.ch/course/view.php?id=6971) (the password is *heigvdrocks*).
+2. If you have not registered on **CyberLearn (moodle)**, register [here](http://cyberlearn.hes-so.ch/course/view.php?id=8206) (the password is *heigvdrocks*).
 3. If you don't have a **StackOverflow** account yet, get one [here](https://www.stackoverflow.com).
 
 
@@ -21,6 +21,15 @@
 ### Task 2 : Setup the environment
 
 In this lab, we will start by installing some of the tools that we will be using during the semester. 
+
+First of all, you need to understand that you have different ways to do the labs and to setup your work environment:
+
+* One possibility would be to install all tools directly on top of your operating system. You would use your IDE, build the software, run the tests in your usual environment. That would work, but there are always some issues with differences between operating systems. That can be a real PITA.
+
+* An alternative is to use the "lab box" that we have prepared for you (see [this repo](https://github.com/SoftEng-HEIGVD/Teaching-HEIGVD-RES-2016-LabBox)). You will have all the tools pre-installed in a linux VM, controlled by Vagrant.
+
+* Last but not least, you can mix the two solutions (that's our favorite setup). When you use Vagrant, you can mount folders from your host file system into the VM. This means that you can use your IDE (e.g. Netbeans) on your host system and at the same time build/execute the project in the VM, in command line.
+
 
 #### 2.1. Make sure that you have a JDK 1.8 installed
 
@@ -34,6 +43,8 @@ To **validate** your installation, you can do a `java -version` from the command
 #### 2.2. Install apache maven
 
 ![image](./diagrams/maven-logo.png)
+
+**Note**:* you might skip this step if you don't want to build your projects on the command line in your host operating system (i.e. if you want to build it with Netbeans on your host and with maven in the Vagrant lab box). However, installing maven is quick and easy, so we recommend that you do it.*
 
 Apache maven is a software development tool that is extremely popular in the Java community. As a matter of fact, if you work in a professional environment or contribute to an open source project, there is *no way* that you will escape it.
 
@@ -165,6 +176,11 @@ Ok, now that your environment is setup, **time to get to the real work**. For th
 
 4. *We know where you live*. After submission, we will check your forks. We have our own suite of automated tests, which we will use to evaluate your work.
 
+#### How and where should I clone my fork?
+
+The recommended setup is described in the [lab box repo](https://github.com/SoftEng-HEIGVD/Teaching-HEIGVD-RES-2016-LabBox). If you read carefully, you will see that we recommend to clone your fork within the directory containing the `Vagrantfile`. This is how you make it possible to access the project files both from your host and from the VM.
+
+If you don't know how to create a fork on GitHub, or how to clone your fork, take 5 minutes to watch [this webcast](https://www.youtube.com/watch?v=uqIva5-mKMs&list=PLfKkysTy70Qb_mfkkqa5OUMqsOPNEYZIa&index=1).
 
 -----
 
@@ -182,6 +198,8 @@ If you look carefully, you will see that there are 3 files named `pom.xml` in th
 
 
 ### Task 5 : Develop the Java code according to the executable specification
+
+**Note**: if you want to have a preview of what you will do, have a look at this [webcast](https://www.youtube.com/watch?v=8LFbasLgM-M&list=PLfKkysTy70Qb_mfkkqa5OUMqsOPNEYZIa&index=2) and at [this one](https://www.youtube.com/watch?v=P3aMCCuAFv0&list=PLfKkysTy70Qb_mfkkqa5OUMqsOPNEYZIa&index=3).
 
 Before opening Netbeans, let's build our software from the command line. To do that, we have to move into the top-level project, where the first `pom.xml` file is located and type the following command: `mvn clean install`. By doing that, we are asking maven to clean the workspace and to start the build process. You will see a long output on the console, starting with this:
 
@@ -369,7 +387,7 @@ In our workflow, we will most likely **not** accept your pull requests. However,
 
 #### If the authors of the original repository make updates, how do I get them?
 
-Let us imagine that we find a bug somewhere in the **SoftEng-HEIGVD/Teaching-HEIGVD-RES-2015-Labo1** repo. We want to fix it and make sure that all students can get the fix in their own fork. How do we do that? 
+Let us imagine that we find a bug somewhere in the **SoftEng-HEIGVD/Teaching-HEIGVD-RES-2016-Labo1** repo. We want to fix it and make sure that all students can get the fix in their own fork. How do we do that? 
 
 This operation cannot be done via the Web UI, but it is fairly easy and well documented. First, you have to [configure an upstream server](https://help.github.com/articles/configuring-a-remote-for-a-fork/). Then, you can [sync](https://help.github.com/articles/syncing-a-fork/) your local clone with the upstream server. Finally, you can [push](https://help.github.com/articles/pushing-to-a-remote/) the update to your fork. 
 

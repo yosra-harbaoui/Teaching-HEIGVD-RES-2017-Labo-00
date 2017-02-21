@@ -15,6 +15,7 @@ public class OrchestraTest {
   public OrchestraTest() {
   }
 
+  /*
   @Test
   public void thereShouldBeNoInstrumentInANewOrchestra() {
     Orchestra orchestra = new Orchestra();
@@ -52,5 +53,6 @@ public class OrchestraTest {
     assertEquals(sounds.get(1), "pouet");
     assertEquals(sounds.get(2), "trilili");
   }
+  */
   
 }

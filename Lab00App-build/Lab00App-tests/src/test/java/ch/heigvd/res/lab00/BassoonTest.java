@@ -6,7 +6,7 @@ import org.junit.Test;
 
  // @author Denise Gemesio
 
-public class TrumpetTest {
+public class BassoonTest {
   
   @Test
   public void aBassoonShouldMakeBassoon() {

@@ -9,6 +9,11 @@ package ch.heigvd.res.lab00;
  *
  * @author Lemdjo
  */
-interface IInstrument {
-   public String play();
+public class Mellophone implements IInstrument{
+   	public Mellophone() {}
+
+	public String play() {
+           return "Pouet";
+	}
+   
 }

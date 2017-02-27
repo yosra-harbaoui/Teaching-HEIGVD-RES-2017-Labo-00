@@ -14,7 +14,7 @@ import org.junit.Test;
  *
  * @author Valentin Finini
  */
-public class TrumpetTest {
+public class BassClarinetTest {
 
     @Test
     public void aBassClarinetShouldMakeBuuh() {

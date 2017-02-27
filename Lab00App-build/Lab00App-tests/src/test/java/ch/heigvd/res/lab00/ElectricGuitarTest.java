@@ -42,7 +42,7 @@ public class ElectricGuitarTest {
   public void anElectricGuitarShouldHaveAConnector() {
     ElectricGuitar eGuitar = new ElectricGuitar();
     ElectricGuitar.Connector connector = eGuitar.getConnector();
-    Assert.assertNotNull(eGuitar);
+    Assert.assertNotNull(connector);
   }
  
 }

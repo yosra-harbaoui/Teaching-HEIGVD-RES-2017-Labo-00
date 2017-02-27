@@ -1,5 +1,6 @@
 package ch.heigvd.res.lab00;
 
+import org.junit.Assert;
 import org.junit.Test;
 
 /**
@@ -10,8 +11,8 @@ public class ChimesTest {
     @Test
     public void aChimesShouldDoTheRightSound() {
         IInstrument chimes = new Chimes();
-        String sound = trumpet.play();
+        String sound = chimes.play();
         Assert.assertEquals("dring", sound);
     }
-    
+
 }

@@ -6,9 +6,9 @@ import org.junit.Test;
 
 public class BellTest {
   @Test
-  public void aBellShouldMakePouet() {
-    IInstrument trumpet = new Trumpet();
-    String sound = trumpet.play();
+  public void aBellShouldMakeBell() {
+    IInstrument bell = new Bell();
+    String sound = bell.play();
     Assert.assertEquals("bell", sound);
   }
 }

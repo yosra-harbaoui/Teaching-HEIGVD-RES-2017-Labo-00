@@ -7,12 +7,13 @@ import org.junit.Test;
 /** 
  * @author Loan Lassalle
  */
+
 public class CelticHarpTest
 { 
-    public void getSoundTest()
+    public void aCelticHarpShouldMakeDruum()
     {
-        IInstrument celticharp = new CelticHarp();
-        String sound = celticharp.play();
-        Assert.assertEquals("celtic harp", sound);
+        IInstrument celticHarp = new CelticHarp();
+        String sound = celticHarp.play();
+        Assert.assertEquals("druum", sound);
     }  
 }

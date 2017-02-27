@@ -9,7 +9,7 @@ public class CastanetsTest {
     public void expectedSoundCastanets()
     {
         IInstrument c = new Castanets();
-        String son = Castanets.play();
+        String son = c.play();
         Assert.assertEquals("chiki chiki", son);
     }
 

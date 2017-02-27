@@ -11,9 +11,9 @@ import org.junit.Test;
 public class BabyGrandPianoTest {
 
   @Test
-  public void aBabyGrandPianoShoudMake() {
+  public void aBabyGrandPianoShoudMakeTada() {
     IInstrument BabyGrandPiano = new BabyGrandPiano();
     String sound = BabyGrandPiano.play();
-    Assert.assertEquals("tada", sound);
+    Assert.assertEquals("Tada", sound);
   }
 }

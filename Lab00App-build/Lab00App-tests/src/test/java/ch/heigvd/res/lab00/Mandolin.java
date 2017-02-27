@@ -15,7 +15,7 @@ import org.junit.Test;
  */
 public class Mandolin {
    @Test
-   public void aTrumpetShouldMakePouet() {
+   public void aMandolinShouldMakeZing() {
      IInstrument mandolin = new Mandolin();
      String sound = mandolin.play();
      Assert.assertEquals("zing", sound);

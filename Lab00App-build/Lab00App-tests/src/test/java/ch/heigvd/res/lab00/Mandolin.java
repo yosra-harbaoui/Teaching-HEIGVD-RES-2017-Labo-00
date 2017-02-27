@@ -14,6 +14,7 @@ import org.junit.Test;
  * @author Daniel Palumbo
  */
 public class Mandolin {
+   
    @Test
    public void aMandolinShouldMakeZing() {
      IInstrument mandolin = new Mandolin();

@@ -1,3 +1,9 @@
+package ch.heigvd.res.lab00;
+
+import org.junit.Assert;
+import static org.junit.Assert.assertNotNull;
+import org.junit.Test;
+
  @Test
   public void aBalalaikaShouldMakeDling() {
     IInstrument balalaika = new Balalaikia();

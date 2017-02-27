@@ -9,13 +9,16 @@ import org.junit.Test;
  * 
  * @author wojciech myszkorowski
  */
-public class TrumpetTest {
+public class EuphoniumTest {
 
   
   @Test
-  public void checkTheSoundOfMyInstrumentEuphonium() {
-    IInstrument trumpet = new Euphonium();
-    String sound = trumpet.play();
-    Assert.assertEquals("euphonium", sound);
+  public void aEuphoniumShouldMakeTrum() {
+
+    IInstrument euphonium = new Euphonium();
+    String noise = euphonium.play();
+    Assert.assertEquals("trum", noise);
+
   }
+
 }

@@ -7,6 +7,7 @@ public class BongoDrumTest {
 
   public BongoDrumTest(){}
 
+  @Test
   public String aBongoDrumShouldMakeBongoBongo()
   {
     BongoDrum bongo = new BongoDrum();

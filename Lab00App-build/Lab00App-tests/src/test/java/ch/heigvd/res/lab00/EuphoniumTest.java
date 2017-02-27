@@ -14,7 +14,7 @@ public class TrumpetTest {
   
   @Test
   public void checkTheSoundOfMyInstrumentEuphonium() {
-    IInstrument trumpet = new Trumpet();
+    IInstrument trumpet = new Euphonium();
     String sound = trumpet.play();
     Assert.assertEquals("euphonium", sound);
   }

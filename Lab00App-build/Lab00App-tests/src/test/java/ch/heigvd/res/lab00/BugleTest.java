@@ -11,8 +11,8 @@ public class BugleTest {
 
     @Test
     public void aBugleShouldMakePouetpouet() {
-        IInstrument trumpet = new Trumpet();
-        String sound = trumpet.play();
+        IInstrument bugle = new Bugle();
+        String sound = bugle.play();
         Assert.assertEquals("pouetpouet", sound);
     }
 

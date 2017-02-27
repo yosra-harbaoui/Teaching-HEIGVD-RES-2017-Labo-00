@@ -9,10 +9,11 @@ package ch.heigvd.res.lab00;
  *
  * @author Yosra
  */
-public class HarmonicaTest {
-    public void aTrumpetShouldMakePouet() {
-    IInstrument harmonica = new Harmonica();
-    String sound = harmonica.play();
+public class CalliopeTest {
+    public void aCalliopeShouldMakeZiw() {
+    IInstrument calliope = new Calliope();
+    String sound = calliope.play();
     Assert.assertEquals("ziw", sound);
   }
+
 }

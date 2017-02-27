@@ -6,7 +6,7 @@ import org.junit.Test;
 public class CastanetsTest {
 
     @Test
-    public void expectedSoundCastanets()
+    public void aCastanetsShouldMakeChikiChiki()
     {
         IInstrument c = new Castanets();
         String sound = c.play();

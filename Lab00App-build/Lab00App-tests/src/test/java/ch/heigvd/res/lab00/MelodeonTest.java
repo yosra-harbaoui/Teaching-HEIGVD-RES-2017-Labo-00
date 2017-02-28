@@ -12,8 +12,8 @@ import org.junit.Test;
 public class MelodeonTest { 
   @Test
   public void aMelodeonShouldMakeTralala() {
-    IInstrument trumpet = new Trumpet();
-    String sound = trumpet.play();
+    IInstrument melodeon = new Melodeon();
+    String sound = melodeon.play();
     Assert.assertEquals("Tralala", sound);
   } 
 }

@@ -10,7 +10,7 @@ public class BongoDrumTest {
   @Test
   public String aBongoDrumShouldMakeBongoBongo()
   {
-    BongoDrum bongo = new BongoDrum();
+    IInstrument bongo = new BongoDrum();
     String sound = bongo.play();
     assertEquals(sound, "bongo bongo");
   }

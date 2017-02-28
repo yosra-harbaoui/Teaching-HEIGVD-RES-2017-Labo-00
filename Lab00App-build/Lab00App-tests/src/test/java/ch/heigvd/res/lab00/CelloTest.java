@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package ch.heigvd.res.lab00;
 
 import org.junit.Assert;
@@ -13,9 +9,9 @@ import org.junit.Assert;
  */
 
 public class CelloTest {
-     public void aTrumpetShouldMakeBoumBoum() {
-    IInstrument trumpet = new Trumpet();
-    String sound = trumpet.play();
+     public void aCelloShouldMakeBoumBoum() {
+    IInstrument cello = new CelloTest();
+    String sound = cello.play();
     Assert.assertEquals("boum boum", sound);
   }
     

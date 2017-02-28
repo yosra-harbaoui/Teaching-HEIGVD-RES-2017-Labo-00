@@ -8,12 +8,10 @@ import org.junit.Test;
 public class SpinetTest {
 
   
- 
-  
   @Test
-  public void aTrumpetShouldMakePouet() {
-    IInstrument trumpet = new Trumpet();
-    String sound = trumpet.play();
+  public void aSpinetShouldMakeTang() {
+    IInstrument spinet = new Spinet();
+    String sound = spinet.play();
     Assert.assertEquals("tang ting ting tang", sound);
   }
   

@@ -1,18 +1,15 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Auteur : Nathalie Mégevand
+ * Date : 28.02.2017
+ * Specification for a contrabass
  */
 package ch.heigvd.res.lab00;
 
 import org.junit.Assert;
 import static org.junit.Assert.assertNotNull;
 import org.junit.Test;
+import ch.heigvd.res.lab00.*;
 
-/**
- *
- * @author nathalie mégevand
- */
 public class ContrabassTest {
       @Test
   public void aContrabassShouldMakeDzing() {

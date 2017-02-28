@@ -11,7 +11,7 @@ public class BassGuitarTest {
    @Test
   public void bassGuitarShouldDoAWalk(){
     IInstrument bassGuitar = new BassGuitar();
-    String sound = bassGuitar.sound();
+    String sound = bassGuitar.play();
     Assert.assertEquals("Dum Tudum Tudum Tudum Dum Dum !",sound);
   }
 }

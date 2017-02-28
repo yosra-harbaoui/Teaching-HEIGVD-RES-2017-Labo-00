@@ -11,8 +11,8 @@ public class BongoDrumTest {
   public String aBongoDrumShouldMakeBongoBongo()
   {
     BongoDrum bongo = new BongoDrum();
-    String message = bongo.sound();
-    assertEquals(message, "bongo bongo");
+    String sound = bongo.play();
+    assertEquals(sound, "bongo bongo");
   }
 }
 

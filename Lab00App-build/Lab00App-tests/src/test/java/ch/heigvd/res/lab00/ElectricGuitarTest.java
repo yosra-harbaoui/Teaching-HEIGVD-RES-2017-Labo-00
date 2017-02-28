@@ -34,15 +34,7 @@ public class ElectricGuitarTest {
   @Test
   public void anElectricGuitarShouldHaveSixOrSevenStrings() {
     ElectricGuitar eGuitar = new ElectricGuitar();
-    int nbString = eGuitar.getStringNumber();
+    int nbString = eGuitar.getNumberOfStrings();
     Assert.assertTrue(nbString == 6 || nbString == 7);
-  }
- 
-  @Test
-  public void anElectricGuitarShouldHaveAConnector() {
-    ElectricGuitar eGuitar = new ElectricGuitar();
-    ElectricGuitar.Connector connector = eGuitar.getConnector();
-    Assert.assertNotNull(connector);
-  }
- 
+  } 
 }

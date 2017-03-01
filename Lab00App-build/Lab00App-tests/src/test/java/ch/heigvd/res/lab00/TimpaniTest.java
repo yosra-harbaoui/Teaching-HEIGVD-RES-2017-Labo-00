@@ -14,7 +14,6 @@ import org.junit.Test;
  * @author Olivier Liechti
  */
 public class TimpaniTest {
- 
    @Test
   public void aTimpaniShouldMakeDoom() {
     IInstrument timpani = new Timpani();

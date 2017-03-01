@@ -5,7 +5,7 @@ import static org.junit.Assert.assertNotNull;
 import org.junit.Test;
 
 /**
- * Classe testant une guitare éléctrique
+ * Classe testant une guitare Ã©lÃ©ctrique
  * @author P-B Monaco
  * @author Olivier Liechti
  */

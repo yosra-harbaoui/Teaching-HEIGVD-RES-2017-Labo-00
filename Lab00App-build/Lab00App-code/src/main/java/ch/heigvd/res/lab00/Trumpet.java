@@ -41,7 +41,7 @@ public class Trumpet implements IInstrument {
 
 	}
 
-
+	
 
 	public String getColor() {
 

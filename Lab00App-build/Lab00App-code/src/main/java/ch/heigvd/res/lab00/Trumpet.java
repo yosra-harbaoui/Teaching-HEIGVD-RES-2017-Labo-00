@@ -11,21 +11,21 @@ package ch.heigvd.res.lab00;
  */
 public class Trumpet implements IInstrument {
 
-
+	
 
 	private String color = "golden";
 
 	private int soundVolume = 10;
 
-
+	
 
 	public Trumpet() {
 
-		//this("Golden");
+		//this("Golden");	
 
 	}
 
-
+	
 
 	public String play() {
 
@@ -33,7 +33,7 @@ public class Trumpet implements IInstrument {
 
 	}
 
-
+	
 
 	public int getSoundVolume() {
 
@@ -49,6 +49,6 @@ public class Trumpet implements IInstrument {
 
 	}
 
-
+	
 
 }

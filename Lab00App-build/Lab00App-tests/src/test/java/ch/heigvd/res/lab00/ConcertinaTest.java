@@ -7,7 +7,7 @@ import org.junit.Test;
 public class ConcertinaTest {
 
    @Test
-   public void aConcertinaDoes() {
+   public void aConcertinaShouldMakeDjulidou() {
       IInstrument c = new Concertina();
       Assert.assertEquals("Djulidou", c.play());
    }

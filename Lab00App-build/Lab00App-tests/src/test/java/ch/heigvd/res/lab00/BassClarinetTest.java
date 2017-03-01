@@ -1,4 +1,3 @@
-
 package ch.heigvd.res.lab00;
 
 import org.junit.Assert;

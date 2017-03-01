@@ -8,8 +8,8 @@ public class SlideWhistleTest {
 	
   @Test
   public void aSlideWhistleShouldMakePouet() {
-    IInstrument trumpet = new Trumpet();
-    String sound = trumpet.play();
+    IInstrument slidewhistle = new SlideWhistle();
+    String sound = slidewhistle.play();
     Assert.assertEquals("fuuuuu", sound);
   }
 

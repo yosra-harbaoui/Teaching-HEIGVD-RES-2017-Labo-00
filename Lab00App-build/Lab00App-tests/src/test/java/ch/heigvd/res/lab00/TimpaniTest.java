@@ -13,7 +13,7 @@ import org.junit.Test;
  * 
  * @author Olivier Liechti
  */
-public class TimapniTest {
+public class TimpaniTest {
  
    @Test
   public void aTimpaniShouldMakedoom() {

@@ -7,10 +7,10 @@ import org.junit.Test;
 public class SlideWhistleTest {
 	
   @Test
-  public void aSlideWhistleShouldMakePouet() {
-    IInstrument slidewhistle = new SlideWhistle();
-    String sound = slidewhistle.play();
-    Assert.assertEquals("fuuuuu", sound);
+  public void shouldMakeFuuu() {
+    IInstrument slideWhistle = new SlideWhistle();
+    String sound = slideWhistle.play();
+    Assert.assertEquals("fuuu", sound);
   }
 
 }

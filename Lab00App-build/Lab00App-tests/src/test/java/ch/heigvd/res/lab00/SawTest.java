@@ -10,9 +10,9 @@ import org.junit.Test;
 public class SawTest {
   
   @Test
-  public void aTrumpetShouldMakeWoui() {
-    IInstrument trumpet = new Trumpet();
-    String sound = trumpet.play();
+  public void aSawShouldMakeWoui() {
+    IInstrument saw = new Saw();
+    String sound = saw.play();
     Assert.assertEquals("woui", sound);
   }
   

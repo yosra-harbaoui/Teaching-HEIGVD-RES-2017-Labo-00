@@ -1,5 +1,8 @@
 package ch.heigvd.res.lab00;
 
+import org.junit.Test;
+import static org.junit.Assert.assertEquals;
+
 /** Test class for testing class Carillon
  */
 public class CarillonTest {

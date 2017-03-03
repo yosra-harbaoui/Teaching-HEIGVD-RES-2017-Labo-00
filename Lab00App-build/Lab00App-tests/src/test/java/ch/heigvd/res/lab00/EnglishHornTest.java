@@ -14,7 +14,7 @@ import org.junit.Test;
 public class EnglishHornTest {
 
   @Test
-  public void aEnglishHornShouldMakefluflu() {
+  public void aEnglishHornShouldMakeFluFlu() {
     IInstrument EnglishHorn = new EnglishHorn();
     String sound = EnglishHorn.play();
     Assert.assertEquals("fluflu", sound);

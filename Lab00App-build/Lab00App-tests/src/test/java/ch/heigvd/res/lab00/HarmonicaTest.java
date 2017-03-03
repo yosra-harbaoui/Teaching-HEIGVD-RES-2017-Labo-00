@@ -8,7 +8,7 @@ public class HarmonicaTest {
 
   
   @Test
-  public void anHarmonicaShouldMakedapdap() {
+  public void anHarmonicaShouldMakeDapDap() {
     IInstrument harmonica = new Harmonica();
     String sound = harmonica.play();
     Assert.assertEquals("dap dap", sound);

@@ -1,5 +1,7 @@
 package ch.heigvd.res.lab00;
 
+//@author Tano Iannetta
+
 interface IInstrument{
 
     public String play();

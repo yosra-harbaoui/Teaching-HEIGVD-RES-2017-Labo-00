@@ -5,14 +5,6 @@ package ch.heigvd.res.lab00;
  */
  
 
-interface IInstrument
-{
-
-     String play();
-     int getSoundVolume();
-     String getColor();
-}
-
 public class Maracas implements IInstrument
 {
      String sound;

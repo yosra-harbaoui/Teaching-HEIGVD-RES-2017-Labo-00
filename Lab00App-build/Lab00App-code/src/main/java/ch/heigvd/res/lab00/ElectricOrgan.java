@@ -6,12 +6,19 @@ package ch.heigvd.res.lab00;
  */
 public class ElectricOrgan implements IInstrument {
 
-    public ElectricOrgan() {
-
-    }
-
+    @Override
     public String play() {
         return "Dvuuuuund";
+    }
+
+    @Override
+    public int getSoundVolume() {
+        return 20;
+    }
+
+    @Override
+    public String getColor() {
+        return "gold";
     }
 
 }

@@ -7,7 +7,7 @@ package ch.heigvd.res.lab00;
 
 /**
  *
- * @author aurelie
+ * @author Aurelie Levy
  */
 public class Melodeon implements IInstrument {
     public String play() {

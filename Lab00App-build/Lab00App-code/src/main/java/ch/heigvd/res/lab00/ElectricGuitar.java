@@ -23,7 +23,7 @@ public class ElectricGuitar implements IInstrument {
   }
 
   public String getColor() {
-    return "yellow";
+    return "black";
   }
 
   public int getSoundVolume() {

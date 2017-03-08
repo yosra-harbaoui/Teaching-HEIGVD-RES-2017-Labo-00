@@ -14,7 +14,7 @@ public class Maracas implements IInstrument
     public Maracas()
     {
         sound = "TshTsh";
-        soundVolume = 19;
+        soundVolume = 17;
         color = "wood";
     }
 

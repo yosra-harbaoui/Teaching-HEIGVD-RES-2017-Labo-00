@@ -9,7 +9,7 @@ package ch.heigvd.res.lab00;
  *
  * @author Lemdjo
  */
-/*Add implementation for Mellophone #187*/
+/*Add implementation for Mellophone*/
 public class Mellophone implements IInstrument{
    	public Mellophone() {}
 

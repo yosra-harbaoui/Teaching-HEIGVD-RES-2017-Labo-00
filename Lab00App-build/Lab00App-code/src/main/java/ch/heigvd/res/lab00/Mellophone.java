@@ -16,5 +16,11 @@ public class Mellophone implements IInstrument{
 	public String play() {
            return "Pouet";
 	}
+         int getSoundVolume(){
+           return 0; 
+         }
+          String getColor(){
+             return "Golgen";
+          }
    
 }

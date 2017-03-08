@@ -10,5 +10,5 @@ package ch.heigvd.res.lab00;
  * @author Lemdjo
  */
 interface IInstrument {
-   public String play();
+   
 }

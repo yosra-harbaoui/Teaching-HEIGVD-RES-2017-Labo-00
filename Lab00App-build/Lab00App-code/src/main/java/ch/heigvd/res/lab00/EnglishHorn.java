@@ -6,24 +6,27 @@ package ch.heigvd.res.lab00;
  */
 public class EnglishHorn implements IInstrument{
 
-	private String sound;
-	private int volume;
-	private String color;
+    private final String sound;
+    private int volume;
+    private final String color;
 
-	public EnglishHorn(String sound, int volume, String color){
-		this.sound = sound;
-		this.volume = volume;
-		this.color = color;
-	}
+    public EnglishHorn(){
+        this.sound = "fluflu";
+        this.volume = 10;
+        this.color = "brown";
+    }
+    
+    @Override
+    public String play(){
+            return sound;
+    }
 
-  	public String play(){
-  		return sound;
-  	}
-
+    @Override
     public int getSoundVolume(){
     	return volume;
     }
 
+    @Override
     public String getColor(){
     	return color;
     }

@@ -8,7 +8,7 @@ public class BalalaikaTest {
 
     @Test
     public void aBalalaikaShouldMakeDling() {
-        IInstrument balalaika = new Balalaikia();
+        IInstrument balalaika = new Balalaika();
         String sound = balalaika.play();
         Assert.assertEquals("dling", sound);
     }

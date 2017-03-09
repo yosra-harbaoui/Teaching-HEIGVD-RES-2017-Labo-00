@@ -5,11 +5,6 @@
  */
 package ch.heigvd.res.lab00;
 
-/**
- *
- * @author Lemdjo
- */
-
 public class Cornet implements IInstrument {
 
    private String color = "gold";
